@@ -1,0 +1,6 @@
+{
+  "name": "InkNote",
+  "description": "Stylus note-taking and PDF markup app with Google Ink API and Jetpack Compose",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
